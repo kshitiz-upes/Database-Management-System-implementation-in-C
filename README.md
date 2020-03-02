@@ -23,7 +23,10 @@ Design and implement data structure for file data, update and retrieval.
 
 # REFRENCES
 1.Fundamentals of Database Systems, 7th Edition,Ramez Elmasri, University of Texas at Arlington, Shamkant B. Navathe,                       University of Texas at Arlington
-2. http://www.cs.wisc.edu/niagara/data/  \n
+2. http://www.cs.wisc.edu/niagara/data/  
+
 3. http://www.cs.wisc.edu/niagara/data/
+
 4. http://iips.icci.edu.iq/images/exam/databases-ramaz.pdf
+
 5. https://www.studytonight.com/operating-system/file-system
